@@ -65,7 +65,6 @@ Este repositório contém o material e o código fonte utilizados para o seminá
 - `LICENSE`: Licença Creative Commons para uso e distribuição.
 - `CONTRIBUTING.md`: Instruções para contribuições externas.
 - `presentation.pdf`: Slides utilizados na apresentação.
-- `examples/`: Código-fonte utilizado para os exemplos de árvores de derivação, implementados em Python/Java.
   
 ---
 
